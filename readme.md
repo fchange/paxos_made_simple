@@ -1,6 +1,7 @@
 # 分布式系统中的 Paxos 算法实现
 
 这是一个简化的 Paxos 算法的 Go 语言实现，用于教学和学习目的。Paxos 算法是一种解决分布式系统中的共识问题的算法，能够在部分节点失败的情况下，保证系统中的多个节点达成一致的决策。
+参考自：https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
 
 ## 功能
 
