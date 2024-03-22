@@ -13,7 +13,7 @@
 1. 确保你的系统上安装了 Go 语言环境。
 2. 克隆本项目到本地：
    ```
-   git clone TODO
+   git clone https://github.com/fchange/paxos_made_simple
    ```
 3. 进入项目目录并安装依赖：
    ```
@@ -37,8 +37,8 @@
 
 欢迎对本项目做出贡献。如果你发现了问题或有改进的建议，请通过以下方式联系我们：
 
-- 提交 [issue](TODO) 来报告问题。
-- 发送 [pull request](TODO) 来贡献代码。
+- 提交 [issue](https://github.com/fchange/paxos_made_simple/issues) 来报告问题。
+- 发送 [pull request](https://github.com/fchange/paxos_made_simple/pulls) 来贡献代码。
 
 ## 许可证
 
